@@ -1,0 +1,3 @@
+[submodule "submodules/VideoMEG"]
+	path = submodules/VideoMEG
+	url = https://github.com/andreyzhd/VideoMEG.git
